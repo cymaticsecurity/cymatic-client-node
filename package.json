@@ -1,14 +1,10 @@
 {
-  "name": "node client",
+  "name": "Cymatic",
   "version": "0.0.1",
-  "description": "nodejs client",
+  "description": "Comunicate with Cymatic's api",
   "author": "Cymatic Security",
   "license": "ISC",
-  "contributors": [
-    {
-      "name": "Narciso Guillen"
-    }
-  ],
+  "contributors": [ { "name": "Narciso Guillen" } ],
   "main": "index",
   "scripts": {},
   "engines": {
